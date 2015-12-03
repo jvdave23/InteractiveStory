@@ -1,4 +1,4 @@
-package jvalantdave.com.interactivestory;
+package jvalantdave.com.interactivestory.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -9,6 +9,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import jvalantdave.com.interactivestory.R;
+
 
 public class MainActivity extends AppCompatActivity {
 

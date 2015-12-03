@@ -13,7 +13,7 @@ public class Page {
         return mImageID;
     }
 
-    public void setImageID(int imageID) {
+    public void setImageId(int imageID) {
         mImageID = imageID;
     }
 

@@ -1,4 +1,4 @@
-package jvalantdave.com.interactivestory;
+package jvalantdave.com.interactivestory.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import jvalantdave.com.interactivestory.R;
 
 public class StoryActivity extends AppCompatActivity {
 
